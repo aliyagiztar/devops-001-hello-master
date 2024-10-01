@@ -1,4 +1,4 @@
-package com.mimaraslan.controller;
+package com.aliyagiztar.controller;
 
 
 import org.springframework.web.bind.annotation.GetMapping;
